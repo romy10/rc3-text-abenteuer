@@ -1,0 +1,23 @@
+body {
+  background: #e670cc;
+}
+
+.bildschirm {
+  font-size: 3rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: white;
+
+  width: 1200px;
+  height: 800px;
+  background: #222222;
+  padding: 52px;
+  border-radius: 15px;
+  margin: 30px auto;
+  box-shadow: inset -1px 2px 10px 5px gray;
+}
+
+div {
+  color: pink;
+  text-decoration: underline;
+}
