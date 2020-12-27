@@ -24,8 +24,11 @@ Ein Abschnitt besteht immer aus diesen Teilen:
 ```
 
 **id** - das ist die Nummer des Abschnitts, die kannst du als Ziel angeben
+
 **auswahlText** - das ist der Text, der als Link zum nächsten Schritt angezeigt werden soll
+
 **text** - das ist der eigentliche Text, also ein Stück der Geschichte, das auf dieser Seite angezeigt werden soll
+
 **ziele** - hier gibst du eine Liste von IDs an, deren auswahlText wird dann unter diesem Teil der Geschichte als Auswahlmöglichkeit angezeigt
 
 ## 3. CSS - Mache es hübsch
