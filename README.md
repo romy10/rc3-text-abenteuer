@@ -2,6 +2,9 @@
 Das ist eine Start-Version für dein eigenes Text-Abenteuer beim rc3-Kids-Workshop. 
 Hier lernst du Schritt für Schritt wie du ein eigenes Text-Game-Adventure schreibst.
 
+Beispiel Abenteuer hier:
+https://abenteuer-im-museum.netlify.app/
+
 ## 1. Dateien herunterladen
 Klicke hier in Github auf den grünen Button "Code" und dann auf "Download as zip". Das lädt die nötigen Dateien auf deinen Computer herunter. Dort musst du sie noch entpacken.
 Wenn die Dateien entpackt sind, dann klicke mal auf index.html. Die Datei sollte sich im Browser öffnen und du siehst, wie das Spiel im Moment aussieht.
