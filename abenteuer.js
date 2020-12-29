@@ -15,16 +15,10 @@ function eineSituation(gesucht) {
         var geheZu = geschichte.situationen[j].ziele[i];
         var geheZuText = findeAuswahl(geheZu);
         text =
-          text +
-          '<div onclick="eineSituation(' +
-          geheZu +
-          ');"' +
-          ">&gt; " +
-          geheZuText +
-          "</div>";
+          `${text}<div onclick="eineSituation(${geheZu});">&gt; ${geheZuText}</div>`;
       }
       break;
     }
   }
-  monitor.innerHTML = "<br> " + text + "<br>";
+  monitor.innerHTML = `<br> ${text}<br>`;
 }
