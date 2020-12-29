@@ -5,6 +5,10 @@ Hier lernst du Schritt für Schritt wie du ein eigenes Text-Game-Adventure schre
 Beispiel Abenteuer hier:
 https://abenteuer-im-museum.netlify.app/
 
+## Credits
+Das Ganze beruht auf diesem Buch: 
+https://www.rheinwerk-verlag.de/programmieren-lernen-mit-javascript/
+
 ## 1. Dateien herunterladen
 Klicke hier in Github auf den grünen Button "Code" und dann auf "Download as zip". Das lädt die nötigen Dateien auf deinen Computer herunter. Dort musst du sie noch entpacken.
 Wenn die Dateien entpackt sind, dann klicke mal auf index.html. Die Datei sollte sich im Browser öffnen und du siehst, wie das Spiel im Moment aussieht.
