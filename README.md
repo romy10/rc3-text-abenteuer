@@ -53,5 +53,4 @@ monitor.css
 
 - Netlify baut dann euer Text-Game, die Seite bekommt einen zufälligen Namen. Wenn ihr den Namen ändern wollt, dann klickt auf 'Site Settings' und 'Change Site Name'. Ihr könnt dann den Teil eintragen, der vor `.netlify.app` steht, also zum Beispiel `https://emmas-abenteuer.netlify.app` 
 
-Unter dieser Webadresse ist euer Text-Game dann im Internet erreichbar und ihr könnt den Link an eure FreundInnen schicken, damit sie euer Spiel ausprobieren können.
-
+- Unter dieser Webadresse ist euer Text-Game dann im Internet erreichbar und ihr könnt den Link an eure FreundInnen schicken, damit sie euer Spiel ausprobieren können.
